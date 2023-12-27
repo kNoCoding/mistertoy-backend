@@ -60,27 +60,62 @@ function remove(toyId) {
 //     return _saveToysToFile().then(() => toy)
 // }
 
+// function save(toy) {
+//     let idx = toys.findIndex(currToy => currToy._id === toy._id);
+//     if (idx === -1) {
+//         // If toy doesn't exist, create new
+//         toy._id = utilService.makeId();
+//         // Ensure all fields are accounted for here
+//         toy.name = toy.name || 'Unnamed Toy';
+//         toy.price = toy.price || 0;
+//         toy.labels = toy.labels || [];
+//         toy.inStock = toy.inStock || false;
+//         toys.push(toy);
+//     } else {
+//         // If toy exists, update it
+//         toys[idx] = { ...toys[idx], ...toy };
+//     }
+
+//     return _saveToysToFile().then(() => toy).catch(err => {
+//         loggerService.error('Failed to save the toy', err);
+//         throw err;
+//     });
+// }
+
+
+// function save(car, loggedinUser) {
 function save(toy) {
-    let idx = toys.findIndex(currToy => currToy._id === toy._id);
-    if (idx === -1) {
-        // If toy doesn't exist, create new
-        toy._id = utilService.makeId();
-        // Ensure all fields are accounted for here
-        toy.name = toy.name || 'Unnamed Toy';
-        toy.price = toy.price || 0;
-        toy.labels = toy.labels || [];
-        toy.inStock = toy.inStock || false;
-        toys.push(toy);
+    if (toy._id) {
+        const toyToUpdate = toys.find(currCar => currCar._id === toy._id)
+        // if (!loggedinUser.isAdmin &&
+        //     toyToUpdate.owner._id !== loggedinUser._id) {
+        //     return Promise.reject('Not your toy')
+        // }
+        console.log('i have id ****************')
+
+
+        toyToUpdate.name = toyToUpdate.name || 'Unnamed Toy'
+        toyToUpdate.price = toyToUpdate.price || 0
+        toyToUpdate.labels = toyToUpdate.labels || []
+        toyToUpdate.inStock = toyToUpdate.inStock || true
+
+        toy = toyToUpdate
     } else {
-        // If toy exists, update it
-        toys[idx] = { ...toys[idx], ...toy };
+        toy._id = utilService.makeId()
+        console.log('NO id ****************')
+
+        // toy.owner = {
+        //     fullname: loggedinUser.fullname,
+        //     score: loggedinUser.score,
+        //     _id: loggedinUser._id,
+        //     isAdmin: loggedinUser.isAdmin
+        // }
+        toys.push(toy)
     }
 
-    return _saveToysToFile().then(() => toy).catch(err => {
-        loggerService.error('Failed to save the toy', err);
-        throw err;
-    });
+    return _saveToysToFile().then(() => toy)
 }
+
 
 
 function _saveToysToFile() {
