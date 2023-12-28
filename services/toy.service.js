@@ -12,8 +12,8 @@ export const toyService = {
 
 const toys = utilService.readJsonFile('data/toy.json')
 
-function query(filterBy = { txt: '' }) {
-    const regex = new RegExp(filterBy.txt, 'i')
+function query(filterBy = { name: '', price: Infinity }) {
+    const regex = new RegExp(filterBy.name, 'i')
     var toysToReturn = toys.filter(toy => regex.test(toy.name))
     if (filterBy.price) {
         toysToReturn = toysToReturn.filter(toy => toy.price <= filterBy.price)
@@ -87,6 +87,7 @@ function remove(toyId) {
 function save(toy) {
     if (toy._id) {
         const toyToUpdate = toys.find(currCar => currCar._id === toy._id)
+        
         // if (!loggedinUser.isAdmin &&
         //     toyToUpdate.owner._id !== loggedinUser._id) {
         //     return Promise.reject('Not your toy')
@@ -94,10 +95,10 @@ function save(toy) {
         console.log('i have id ****************')
 
 
-        toyToUpdate.name = toyToUpdate.name || 'Unnamed Toy'
-        toyToUpdate.price = toyToUpdate.price || 0
-        toyToUpdate.labels = toyToUpdate.labels || []
-        toyToUpdate.inStock = toyToUpdate.inStock || true
+        toyToUpdate.name = toy.name || 'Unnamed Toy'
+        toyToUpdate.price = toy.price || 0
+        toyToUpdate.labels = toy.labels || []
+        toyToUpdate.inStock = toy.inStock || true
 
         toy = toyToUpdate
     } else {

@@ -43,6 +43,8 @@ app.get('/api/toy', (req, res) => {
         name: req.query.name || '',
         price: +req.query.price || 0,
     }
+    console.log('filterBy+++++++++++++++++++++', filterBy)
+
     toyService.query(filterBy)
         .then((toys) => {
             res.send(toys)
