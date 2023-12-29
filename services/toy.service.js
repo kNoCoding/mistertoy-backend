@@ -84,15 +84,15 @@ function remove(toyId) {
 
 
 // function save(car, loggedinUser) {
-function save(toy) {
+async function save(toy) {
     if (toy._id) {
-        const toyToUpdate = toys.find(currCar => currCar._id === toy._id)
-        
+        const toyToUpdate = toys.find(currToy => currToy._id === toy._id)
+
         // if (!loggedinUser.isAdmin &&
         //     toyToUpdate.owner._id !== loggedinUser._id) {
         //     return Promise.reject('Not your toy')
         // }
-        console.log('i have id ****************')
+        console.log(`Toy updated ID:${toy._id}`)
 
 
         toyToUpdate.name = toy.name || 'Unnamed Toy'
@@ -103,7 +103,7 @@ function save(toy) {
         toy = toyToUpdate
     } else {
         toy._id = utilService.makeId()
-        console.log('NO id ****************')
+        console.log(`New toy created ID:${toy._id}`)
 
         // toy.owner = {
         //     fullname: loggedinUser.fullname,
@@ -114,7 +114,17 @@ function save(toy) {
         toys.push(toy)
     }
 
-    return _saveToysToFile().then(() => toy)
+
+    try {
+        // Wait for the file to be saved before proceeding
+        await _saveToysToFile()
+        // If successful return the toy
+        return toy
+    } catch (err) {
+        loggerService.error('Cannot save toy', err)
+        throw err
+    }
+    // return _saveToysToFile().then(() => toy)
 }
 
 
