@@ -1,7 +1,7 @@
-import path from 'path'
 import express from 'express'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
+import path, {dirname} from 'path'
 
 import { toyService } from './services/toy.service.js'
 // import { userService } from './services/user.service.js'
