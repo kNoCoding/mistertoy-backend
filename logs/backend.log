@@ -1,203 +1,559 @@
-24.12.2023, 22:22:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:23:11 - INFO - user loggedin: | {"_id":"YtbOz","fullname":"Bobo McPopo","score":10000}
-24.12.2023, 22:23:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:24:04 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:24:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:24:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:24:38 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:25:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:25:07 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:25:08 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:25:41 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:25:43 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:25:50 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:25:52 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:26:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:26:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:26:21 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:26:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:26:32 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:26:54 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:27:02 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:27:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:27:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:28:00 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:28:08 - INFO - user loggedin: | {"_id":"YtbOz","fullname":"Bobo McPopo","score":10000}
-24.12.2023, 22:34:03 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:34:11 - INFO - user loggedin: | {"_id":"YtbOz","fullname":"Bobo McPopo","score":10000}
-24.12.2023, 22:34:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:34:30 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:34:48 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:34:48 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:35:07 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:35:16 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:35:20 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:35:23 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:35:28 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:36:45 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:36:47 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:36:56 - INFO - User score updated: | {"_id":"YtbOz","fullname":"Bobo McPopo","score":3271}
-24.12.2023, 22:37:05 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:37:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:37:39 - INFO - Server listening on port http://127.0.0.1:3030/
-24.12.2023, 22:37:47 - INFO - user loggedin: | {"_id":"YtbOz","fullname":"Bobo McPopo","score":10000}
-25.12.2023, 10:41:49 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 10:42:06 - INFO - user loggedin: | {"_id":"YtbOz","fullname":"Bobo McPopo","score":10000}
-25.12.2023, 10:42:48 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 11:18:27 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 11:22:40 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 11:29:40 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 11:29:40 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 11:30:19 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 11:30:33 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 11:56:28 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 12:04:01 - INFO - loggedinUser car delete: | null
-25.12.2023, 12:04:01 - INFO - Cannot remove car, No user
-25.12.2023, 12:04:06 - INFO - loggedinUser car delete: | null
-25.12.2023, 12:04:06 - INFO - Cannot remove car, No user
-25.12.2023, 12:04:37 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 12:08:17 - INFO - user loggedin: | {"_id":"YtbOz","fullname":"Bobo McPopo","score":10000}
-25.12.2023, 12:20:00 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 12:26:05 - INFO - Server listening on port http://127.0.0.1:3030/
-25.12.2023, 13:01:44 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 20:22:04 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 20:58:31 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 21:00:11 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 21:00:40 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 21:38:34 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 21:49:10 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 21:49:50 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 21:59:16 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:01:13 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:01:34 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:23:35 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:29:04 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:30:39 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:32:22 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:33:38 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:38:42 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:42:11 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:43:24 - INFO - Server listening on port http://127.0.0.1:3030/
-26.12.2023, 22:49:57 - INFO - Toy QdLZb removed
-26.12.2023, 22:50:08 - INFO - Toy spbdb removed
-26.12.2023, 22:50:49 - INFO - Toy OFBCs removed
-26.12.2023, 22:50:57 - INFO - Toy 9wKNM removed
-27.12.2023, 14:48:01 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 15:01:44 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 15:01:56 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 15:03:55 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 15:08:32 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 15:11:56 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 15:12:50 - INFO - Toy bCOZ5 removed
-27.12.2023, 15:20:59 - INFO - Toy EpnmQ removed
-27.12.2023, 15:21:05 - INFO - Toy ZaZfx removed
-27.12.2023, 15:21:13 - INFO - Toy ZshI1 removed
-27.12.2023, 15:21:52 - INFO - Toy Gs6Oq removed
-27.12.2023, 15:22:03 - INFO - Toy evYq5 removed
-27.12.2023, 15:23:32 - INFO - Toy 1acDP removed
-27.12.2023, 15:23:35 - INFO - Toy vyzfh removed
-27.12.2023, 15:23:38 - INFO - Toy 7eZDE removed
-27.12.2023, 16:34:15 - INFO - Toy KYyDf removed
-27.12.2023, 16:44:53 - INFO - Toy WRpLJ removed
-27.12.2023, 16:47:01 - INFO - Toy UVPMV removed
-27.12.2023, 16:47:02 - INFO - Toy uyz0G removed
-27.12.2023, 18:02:32 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 18:03:45 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 18:22:44 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 18:23:02 - INFO - Server listening on port http://127.0.0.1:3030/
-27.12.2023, 21:50:40 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 16:29:10 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 16:38:28 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 16:40:43 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:00:13 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:01:56 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:04:55 - INFO - Toy AnHQt removed
-28.12.2023, 18:05:33 - INFO - Toy DCut4 removed
-28.12.2023, 18:05:35 - INFO - Toy 0G5rE removed
-28.12.2023, 18:05:37 - INFO - Toy Rc1z7 removed
-28.12.2023, 18:05:40 - INFO - Toy n8g5P removed
-28.12.2023, 18:10:12 - INFO - Toy 4UpEp removed
-28.12.2023, 18:26:26 - INFO - Toy TQMmX removed
-28.12.2023, 18:26:30 - INFO - Toy HcqH6 removed
-28.12.2023, 18:26:55 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:27:03 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:27:46 - INFO - Toy AeqhT removed
-28.12.2023, 18:28:06 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:28:21 - INFO - Toy tDEeI removed
-28.12.2023, 18:31:32 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:33:07 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:38:04 - INFO - Toy mronz removed
-28.12.2023, 18:39:02 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:39:49 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:41:08 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:45:27 - INFO - Server listening on port http://127.0.0.1:3030/
-28.12.2023, 18:45:50 - INFO - Toy tW5J9 removed
-28.12.2023, 18:50:47 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 0:56:41 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 0:57:39 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 0:58:48 - INFO - Toy 0LB9h removed
-29.12.2023, 0:59:51 - INFO - Toy AsFXQ removed
-29.12.2023, 1:12:47 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 1:13:43 - INFO - Toy jOiQq removed
-29.12.2023, 1:17:50 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 16:04:36 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 17:40:02 - INFO - Toy 3HWut removed
-29.12.2023, 17:57:42 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 19:25:35 - INFO - Toy kfLUV removed
-29.12.2023, 19:25:59 - INFO - Toy tkoJY removed
-29.12.2023, 19:36:37 - INFO - Toy jziL8 removed
-29.12.2023, 19:37:27 - INFO - Toy ySIqE removed
-29.12.2023, 20:45:58 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:34:08 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:36:31 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:37:47 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:39:12 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:39:45 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:40:04 - INFO - Toy nGuoa removed
-29.12.2023, 21:40:49 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:43:07 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:44:08 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:45:34 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:46:10 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:46:50 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:48:29 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:49:29 - INFO - Toy SaI7q removed
-29.12.2023, 21:51:05 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:51:16 - INFO - Toy 4AlzX removed
-29.12.2023, 21:52:53 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:52:59 - INFO - Toy mZ4Fe removed
-29.12.2023, 21:55:21 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:55:38 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 21:56:30 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 22:00:18 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 22:00:42 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 22:01:35 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 22:09:10 - INFO - Server listening on port http://127.0.0.1:3030/
-29.12.2023, 22:11:10 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:31:09 - INFO - Toy wk03A removed
-30.12.2023, 1:31:40 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:32:15 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:32:23 - INFO - Toy PZxQF removed
-30.12.2023, 1:34:40 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:34:51 - INFO - Toy egrkK removed
-30.12.2023, 1:35:00 - INFO - Toy xR0VX removed
-30.12.2023, 1:35:57 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:36:10 - INFO - Toy nFi0i removed
-30.12.2023, 1:36:29 - INFO - Toy XlmhK removed
-30.12.2023, 1:36:41 - INFO - Toy uUlmi removed
-30.12.2023, 1:40:27 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:40:35 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:40:54 - INFO - Toy baN8x removed
-30.12.2023, 1:41:03 - INFO - Toy KyX0O removed
-30.12.2023, 1:41:32 - INFO - Toy Ss47A removed
-30.12.2023, 1:43:06 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 1:43:18 - INFO - Toy xcq8C removed
-30.12.2023, 1:43:22 - INFO - Toy 15duj removed
-30.12.2023, 1:43:38 - INFO - Toy YCPrh removed
-30.12.2023, 1:43:39 - INFO - Toy 74tHM removed
-30.12.2023, 1:43:39 - INFO - Toy dyUXa removed
-30.12.2023, 1:43:41 - INFO - Toy CrNhK removed
-30.12.2023, 14:25:23 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 14:41:11 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 15:52:30 - INFO - Server listening on port http://127.0.0.1:3030/
-30.12.2023, 15:53:34 - INFO - Server listening on port http://127.0.0.1:3030/
+28.12.2023, 13:09:55 - INFO - Req was made | / 
+28.12.2023, 13:09:55 - DEBUG - Getting Cars | {"txt":""} 
+28.12.2023, 13:16:05 - INFO - server.js loaded... 
+28.12.2023, 13:16:05 - INFO - Server is running on port: 3030 
+28.12.2023, 13:39:35 - INFO - Req was made | / 
+28.12.2023, 13:39:35 - DEBUG - Getting Cars | {"txt":""} 
+28.12.2023, 13:40:35 - INFO - server.js loaded... 
+28.12.2023, 13:40:35 - INFO - Server is running on port: 3030 
+28.12.2023, 13:41:05 - INFO - server.js loaded... 
+28.12.2023, 13:41:05 - INFO - Server is running on port: 3030 
+30.12.2023, 18:15:03 - INFO - Server is running on port: 3030 
+30.12.2023, 18:15:03 - INFO - server.js loaded... 
+30.12.2023, 19:15:08 - INFO - server.js loaded... 
+30.12.2023, 19:15:08 - INFO - Server is running on port: 3030 
+30.12.2023, 19:19:47 - INFO - server.js loaded... 
+30.12.2023, 19:19:47 - INFO - Server is running on port: 3030 
+30.12.2023, 19:47:51 - INFO - server.js loaded... 
+30.12.2023, 19:47:51 - INFO - Server is running on port: 3030 
+30.12.2023, 19:49:03 - INFO - server.js loaded... 
+30.12.2023, 19:49:03 - INFO - Server is running on port: 3030 
+30.12.2023, 19:49:07 - INFO - Req was made | / 
+30.12.2023, 19:49:07 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 19:49:07 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+30.12.2023, 19:49:07 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+30.12.2023, 19:54:10 - INFO - server.js loaded... 
+30.12.2023, 19:54:10 - INFO - Server is running on port: 3030 
+30.12.2023, 19:54:12 - INFO - Req was made | / 
+30.12.2023, 19:54:12 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 19:55:25 - INFO - Req was made | / 
+30.12.2023, 19:55:25 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 19:57:01 - INFO - Req was made | / 
+30.12.2023, 19:57:01 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 19:57:04 - INFO - Req was made | / 
+30.12.2023, 19:57:04 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 19:57:43 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 19:57:43 - INFO - Req was made | / 
+30.12.2023, 19:57:49 - INFO - Req was made | / 
+30.12.2023, 19:57:49 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 19:57:55 - INFO - Req was made | / 
+30.12.2023, 19:57:55 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:14:10 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:14:10 - INFO - Req was made | / 
+30.12.2023, 20:15:16 - INFO - server.js loaded... 
+30.12.2023, 20:15:16 - INFO - Server is running on port: 3030 
+30.12.2023, 20:15:18 - INFO - Req was made | / 
+30.12.2023, 20:15:18 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:26:31 - INFO - Req was made | / 
+30.12.2023, 20:26:31 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:26:37 - INFO - Req was made | / 
+30.12.2023, 20:26:37 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:26:47 - INFO - Req was made | / 
+30.12.2023, 20:26:47 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:26:51 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:26:51 - INFO - Req was made | / 
+30.12.2023, 20:27:48 - INFO - Req was made | / 
+30.12.2023, 20:27:48 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:27:52 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:27:52 - INFO - Req was made | / 
+30.12.2023, 20:28:19 - INFO - Req was made | / 
+30.12.2023, 20:28:19 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:31:39 - INFO - server.js loaded... 
+30.12.2023, 20:31:39 - INFO - Server is running on port: 3030 
+30.12.2023, 20:31:45 - INFO - Req was made | / 
+30.12.2023, 20:31:45 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:33:01 - INFO - server.js loaded... 
+30.12.2023, 20:33:01 - INFO - Server is running on port: 3030 
+30.12.2023, 20:33:44 - INFO - server.js loaded... 
+30.12.2023, 20:33:44 - INFO - Server is running on port: 3030 
+30.12.2023, 20:33:46 - INFO - Req was made | / 
+30.12.2023, 20:33:46 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:33:51 - INFO - Req was made | /:id 
+30.12.2023, 20:34:00 - INFO - Req was made | / 
+30.12.2023, 20:34:00 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:34:46 - INFO - server.js loaded... 
+30.12.2023, 20:34:46 - INFO - Server is running on port: 3030 
+30.12.2023, 20:35:10 - INFO - Req was made | /:id 
+30.12.2023, 20:35:14 - INFO - Req was made | / 
+30.12.2023, 20:35:14 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:35:15 - INFO - Req was made | / 
+30.12.2023, 20:35:15 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:35:17 - INFO - Req was made | /:id 
+30.12.2023, 20:35:21 - INFO - Req was made | / 
+30.12.2023, 20:35:21 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:35:23 - INFO - Req was made | / 
+30.12.2023, 20:35:26 - INFO - Req was made | / 
+30.12.2023, 20:36:25 - INFO - Req was made | / 
+30.12.2023, 20:39:18 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:39:18 - INFO - Req was made | / 
+30.12.2023, 20:40:56 - INFO - server.js loaded... 
+30.12.2023, 20:40:56 - INFO - Server is running on port: 3030 
+30.12.2023, 20:41:00 - INFO - Req was made | / 
+30.12.2023, 20:41:00 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:42:38 - INFO - server.js loaded... 
+30.12.2023, 20:42:38 - INFO - Server is running on port: 3030 
+30.12.2023, 20:42:43 - INFO - Req was made | / 
+30.12.2023, 20:42:43 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:43:01 - INFO - server.js loaded... 
+30.12.2023, 20:43:01 - INFO - Server is running on port: 3030 
+30.12.2023, 20:43:03 - INFO - Req was made | / 
+30.12.2023, 20:43:03 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:45:05 - INFO - server.js loaded... 
+30.12.2023, 20:45:05 - INFO - Server is running on port: 3030 
+30.12.2023, 20:45:08 - INFO - Req was made | / 
+30.12.2023, 20:45:08 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:45:11 - INFO - Req was made | / 
+30.12.2023, 20:45:11 - ERROR - cannot update toy 6590621300d597954139c8fd | MongoInvalidArgumentError: Document must be a valid JavaScript object 
+30.12.2023, 20:45:11 - ERROR - Failed to update toy | MongoInvalidArgumentError: Document must be a valid JavaScript object 
+30.12.2023, 20:45:26 - INFO - Server is running on port: 3030 
+30.12.2023, 20:45:26 - INFO - server.js loaded... 
+30.12.2023, 20:45:27 - INFO - Req was made | / 
+30.12.2023, 20:45:27 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:45:28 - INFO - Req was made | / 
+30.12.2023, 20:45:29 - INFO - Req was made | / 
+30.12.2023, 20:46:05 - INFO - Req was made | / 
+30.12.2023, 20:46:05 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:46:12 - INFO - Req was made | /:id 
+30.12.2023, 20:46:13 - INFO - Req was made | / 
+30.12.2023, 20:46:13 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:46:16 - INFO - Req was made | / 
+30.12.2023, 20:46:16 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:46:18 - INFO - Req was made | / 
+30.12.2023, 20:46:18 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:46:29 - INFO - Req was made | / 
+30.12.2023, 20:46:29 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:48:13 - INFO - Req was made | /:id 
+30.12.2023, 20:48:24 - INFO - Req was made | /:id 
+30.12.2023, 20:51:16 - INFO - Req was made | /:id 
+30.12.2023, 20:51:20 - INFO - Req was made | / 
+30.12.2023, 20:51:20 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:51:26 - INFO - Req was made | / 
+30.12.2023, 20:51:26 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:51:30 - INFO - Req was made | / 
+30.12.2023, 20:51:30 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:51:31 - INFO - Req was made | / 
+30.12.2023, 20:51:31 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:51:33 - INFO - Req was made | / 
+30.12.2023, 20:51:33 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:51:34 - INFO - Req was made | / 
+30.12.2023, 20:51:34 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:53:35 - INFO - server.js loaded... 
+30.12.2023, 20:53:35 - INFO - Server is running on port: 3030 
+30.12.2023, 20:53:36 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 20:53:36 - INFO - Req was made | / 
+30.12.2023, 20:57:40 - INFO - server.js loaded... 
+30.12.2023, 20:57:40 - INFO - Server is running on port: 3030 
+30.12.2023, 20:57:43 - INFO - Req was made | / 
+30.12.2023, 20:57:43 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 21:01:24 - INFO - Server is running on port: 3030 
+30.12.2023, 21:01:24 - INFO - server.js loaded... 
+30.12.2023, 21:01:26 - INFO - Req was made | / 
+30.12.2023, 21:01:26 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 21:02:42 - INFO - Req was made | / 
+30.12.2023, 21:02:42 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 21:02:46 - INFO - Req was made | / 
+30.12.2023, 21:04:27 - INFO - Req was made | / 
+30.12.2023, 21:04:27 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 21:04:40 - INFO - Req was made | / 
+30.12.2023, 21:04:40 - DEBUG - Getting Toys | {"txt":""} 
+30.12.2023, 21:04:42 - INFO - Req was made | / 
+1.1.2024, 13:23:00 - INFO - server.js loaded... 
+1.1.2024, 13:23:01 - INFO - Server is running on port: 3030 
+1.1.2024, 13:46:44 - INFO - Req was made | / 
+1.1.2024, 13:46:44 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 13:57:20 - INFO - Req was made | / 
+1.1.2024, 13:57:20 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:01:52 - INFO - Req was made | /:id 
+1.1.2024, 14:01:56 - INFO - Req was made | / 
+1.1.2024, 14:02:00 - INFO - Req was made | /:id 
+1.1.2024, 14:02:03 - INFO - Req was made | /:id 
+1.1.2024, 14:02:04 - INFO - Req was made | / 
+1.1.2024, 14:02:04 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:02:10 - INFO - Req was made | / 
+1.1.2024, 14:02:10 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:03:58 - INFO - server.js loaded... 
+1.1.2024, 14:03:58 - INFO - Server is running on port: 3030 
+1.1.2024, 14:04:06 - INFO - Req was made | / 
+1.1.2024, 14:04:06 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:04:24 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:04:24 - INFO - Req was made | / 
+1.1.2024, 14:08:18 - INFO - Req was made | / 
+1.1.2024, 14:08:18 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:10:59 - INFO - server.js loaded... 
+1.1.2024, 14:11:00 - INFO - Server is running on port: 3030 
+1.1.2024, 14:11:01 - INFO - Req was made | / 
+1.1.2024, 14:11:01 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:13:06 - INFO - Server is running on port: 3030 
+1.1.2024, 14:13:06 - INFO - server.js loaded... 
+1.1.2024, 14:14:22 - INFO - Req was made | / 
+1.1.2024, 14:14:24 - INFO - Req was made | / 
+1.1.2024, 14:14:25 - INFO - Req was made | / 
+1.1.2024, 14:14:27 - INFO - Req was made | / 
+1.1.2024, 14:14:57 - INFO - server.js loaded... 
+1.1.2024, 14:14:57 - INFO - Server is running on port: 3030 
+1.1.2024, 14:15:08 - INFO - Req was made | / 
+1.1.2024, 14:15:53 - INFO - server.js loaded... 
+1.1.2024, 14:15:53 - INFO - Server is running on port: 3030 
+1.1.2024, 14:16:10 - INFO - Req was made | / 
+1.1.2024, 14:16:10 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:17:44 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:17:44 - INFO - Req was made | / 
+1.1.2024, 14:17:55 - INFO - Req was made | / 
+1.1.2024, 14:17:55 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 14:17:59 - INFO - Req was made | /:id 
+1.1.2024, 15:29:09 - INFO - server.js loaded... 
+1.1.2024, 15:29:09 - INFO - Server is running on port: 3030 
+1.1.2024, 15:35:35 - INFO - Req was made | / 
+1.1.2024, 15:35:35 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 15:35:41 - INFO - Req was made | /:id 
+1.1.2024, 15:35:50 - INFO - Req was made | / 
+1.1.2024, 15:35:50 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 15:35:53 - INFO - Req was made | / 
+1.1.2024, 16:45:04 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:45:04 - INFO - Req was made | / 
+1.1.2024, 16:45:07 - INFO - Req was made | / 
+1.1.2024, 16:45:07 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:45:08 - INFO - Req was made | / 
+1.1.2024, 16:45:08 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:45:09 - INFO - Req was made | / 
+1.1.2024, 16:45:09 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:49:13 - INFO - Req was made | / 
+1.1.2024, 16:49:13 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:49:20 - INFO - Req was made | / 
+1.1.2024, 16:49:20 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:21 - INFO - Req was made | / 
+1.1.2024, 16:52:21 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:27 - INFO - Req was made | / 
+1.1.2024, 16:52:27 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:29 - INFO - Req was made | / 
+1.1.2024, 16:52:29 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:30 - INFO - Req was made | / 
+1.1.2024, 16:52:30 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:33 - INFO - Req was made | / 
+1.1.2024, 16:52:33 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:36 - INFO - Req was made | / 
+1.1.2024, 16:52:36 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:38 - INFO - Req was made | / 
+1.1.2024, 16:52:38 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:38 - INFO - Req was made | / 
+1.1.2024, 16:52:38 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:39 - INFO - Req was made | / 
+1.1.2024, 16:52:39 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:52:40 - INFO - Req was made | / 
+1.1.2024, 16:52:40 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:59:36 - INFO - Req was made | /:id 
+1.1.2024, 16:59:37 - INFO - Req was made | /:id 
+1.1.2024, 16:59:38 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 16:59:38 - INFO - Req was made | / 
+1.1.2024, 16:59:39 - INFO - Req was made | /:id 
+1.1.2024, 16:59:42 - INFO - Req was made | / 
+1.1.2024, 16:59:42 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 17:01:53 - INFO - server.js loaded... 
+1.1.2024, 17:01:53 - INFO - Server is running on port: 3030 
+1.1.2024, 17:01:59 - INFO - Req was made | / 
+1.1.2024, 17:01:59 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 17:03:12 - INFO - server.js loaded... 
+1.1.2024, 17:03:12 - INFO - Server is running on port: 3030 
+1.1.2024, 17:03:27 - INFO - Req was made | / 
+1.1.2024, 17:03:27 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 17:03:34 - INFO - Req was made | / 
+1.1.2024, 17:03:34 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 17:04:24 - INFO - server.js loaded... 
+1.1.2024, 17:04:24 - INFO - Server is running on port: 3030 
+1.1.2024, 17:04:26 - INFO - Req was made | / 
+1.1.2024, 17:04:26 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 17:04:28 - INFO - Req was made | / 
+1.1.2024, 17:04:28 - DEBUG - Getting Toys | {"txt":"Bla"} 
+1.1.2024, 17:05:11 - INFO - Req was made | / 
+1.1.2024, 17:05:11 - DEBUG - Getting Toys | {"txt":"Bla"} 
+1.1.2024, 17:05:30 - INFO - server.js loaded... 
+1.1.2024, 17:05:30 - INFO - Server is running on port: 3030 
+1.1.2024, 17:05:32 - DEBUG - Getting Toys | {"name":""} 
+1.1.2024, 17:05:32 - INFO - Req was made | / 
+1.1.2024, 17:05:33 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+1.1.2024, 17:05:33 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+1.1.2024, 17:05:50 - INFO - server.js loaded... 
+1.1.2024, 17:05:50 - INFO - Server is running on port: 3030 
+1.1.2024, 17:05:52 - INFO - Req was made | / 
+1.1.2024, 17:05:52 - DEBUG - Getting Toys | {"txt":""} 
+1.1.2024, 17:09:11 - INFO - server.js loaded... 
+1.1.2024, 17:09:11 - INFO - Server is running on port: 3030 
+1.1.2024, 17:09:13 - INFO - Req was made | / 
+1.1.2024, 17:09:13 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:09:17 - INFO - Req was made | / 
+1.1.2024, 17:09:17 - DEBUG - Getting Toys | {"txt":"","price":"36"} 
+1.1.2024, 17:09:34 - INFO - server.js loaded... 
+1.1.2024, 17:09:34 - INFO - Server is running on port: 3030 
+1.1.2024, 17:09:38 - INFO - server.js loaded... 
+1.1.2024, 17:09:38 - INFO - Server is running on port: 3030 
+1.1.2024, 17:09:39 - INFO - Req was made | / 
+1.1.2024, 17:09:39 - DEBUG - Getting Toys | {"txt":"","price":0} 
+1.1.2024, 17:09:40 - INFO - Req was made | / 
+1.1.2024, 17:09:40 - DEBUG - Getting Toys | {"txt":"","price":0} 
+1.1.2024, 17:09:45 - INFO - Req was made | / 
+1.1.2024, 17:09:45 - DEBUG - Getting Toys | {"txt":"","price":"36"} 
+1.1.2024, 17:10:17 - INFO - server.js loaded... 
+1.1.2024, 17:10:17 - INFO - Server is running on port: 3030 
+1.1.2024, 17:12:40 - INFO - server.js loaded... 
+1.1.2024, 17:12:40 - INFO - Server is running on port: 3030 
+1.1.2024, 17:12:41 - INFO - Req was made | / 
+1.1.2024, 17:12:41 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:12:45 - INFO - Req was made | / 
+1.1.2024, 17:12:45 - DEBUG - Getting Toys | {"txt":"","price":"36"} 
+1.1.2024, 17:12:53 - INFO - Req was made | / 
+1.1.2024, 17:12:53 - DEBUG - Getting Toys | {"txt":"","price":"37"} 
+1.1.2024, 17:12:56 - INFO - Req was made | / 
+1.1.2024, 17:12:56 - DEBUG - Getting Toys | {"txt":"","price":"3"} 
+1.1.2024, 17:12:57 - INFO - Req was made | / 
+1.1.2024, 17:12:57 - DEBUG - Getting Toys | {"txt":"","price":"35"} 
+1.1.2024, 17:14:29 - INFO - server.js loaded... 
+1.1.2024, 17:14:29 - INFO - Server is running on port: 3030 
+1.1.2024, 17:14:30 - INFO - Req was made | / 
+1.1.2024, 17:14:30 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:14:31 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:14:31 - INFO - Req was made | / 
+1.1.2024, 17:14:35 - INFO - Req was made | / 
+1.1.2024, 17:14:35 - DEBUG - Getting Toys | {"txt":"","price":"37"} 
+1.1.2024, 17:14:37 - INFO - Req was made | / 
+1.1.2024, 17:14:37 - DEBUG - Getting Toys | {"txt":"","price":"373"} 
+1.1.2024, 17:14:38 - INFO - Req was made | / 
+1.1.2024, 17:14:38 - DEBUG - Getting Toys | {"txt":"","price":"373333333333333300"} 
+1.1.2024, 17:14:39 - INFO - Req was made | / 
+1.1.2024, 17:14:39 - DEBUG - Getting Toys | {"txt":"","price":"373"} 
+1.1.2024, 17:14:40 - INFO - Req was made | / 
+1.1.2024, 17:14:40 - DEBUG - Getting Toys | {"txt":"","price":"37"} 
+1.1.2024, 17:14:57 - INFO - server.js loaded... 
+1.1.2024, 17:14:57 - INFO - Server is running on port: 3030 
+1.1.2024, 17:14:59 - INFO - Req was made | / 
+1.1.2024, 17:14:59 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:15:02 - INFO - Req was made | / 
+1.1.2024, 17:15:02 - DEBUG - Getting Toys | {"txt":"","price":"3"} 
+1.1.2024, 17:15:02 - INFO - Req was made | / 
+1.1.2024, 17:15:02 - DEBUG - Getting Toys | {"txt":"","price":"37"} 
+1.1.2024, 17:15:54 - INFO - server.js loaded... 
+1.1.2024, 17:15:54 - INFO - Server is running on port: 3030 
+1.1.2024, 17:15:56 - INFO - Req was made | / 
+1.1.2024, 17:15:56 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:15:59 - INFO - Req was made | / 
+1.1.2024, 17:15:59 - DEBUG - Getting Toys | {"txt":"","price":"36"} 
+1.1.2024, 17:21:03 - INFO - Req was made | / 
+1.1.2024, 17:21:03 - DEBUG - Getting Toys | {"txt":"","price":"0"} 
+1.1.2024, 17:21:06 - INFO - Req was made | / 
+1.1.2024, 17:21:06 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:22:03 - INFO - Req was made | / 
+1.1.2024, 17:22:06 - INFO - Req was made | /:id 
+1.1.2024, 17:22:09 - INFO - Req was made | / 
+1.1.2024, 17:22:09 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:22:23 - INFO - Req was made | /:id 
+1.1.2024, 17:22:35 - INFO - Req was made | / 
+1.1.2024, 17:22:35 - DEBUG - Getting Toys | {"txt":"Twi","price":null} 
+1.1.2024, 17:22:39 - INFO - Req was made | / 
+1.1.2024, 17:22:39 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:22:45 - DEBUG - Getting Toys | {"txt":"","price":"81"} 
+1.1.2024, 17:22:45 - INFO - Req was made | / 
+1.1.2024, 17:23:03 - INFO - Req was made | / 
+1.1.2024, 17:23:03 - DEBUG - Getting Toys | {"txt":"","price":"0"} 
+1.1.2024, 17:25:52 - DEBUG - Getting Toys | {"txt":"","price":null} 
+1.1.2024, 17:25:52 - INFO - Req was made | / 
+1.1.2024, 17:27:16 - INFO - server.js loaded... 
+1.1.2024, 17:27:16 - INFO - Server is running on port: 3030 
+1.1.2024, 17:27:29 - INFO - server.js loaded... 
+1.1.2024, 17:27:29 - INFO - Server is running on port: 3030 
+1.1.2024, 17:27:56 - INFO - Req was made | / 
+1.1.2024, 17:27:56 - DEBUG - Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:27:57 - INFO - Req was made | / 
+1.1.2024, 17:27:57 - DEBUG - Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:27:57 - INFO - Req was made | / 
+1.1.2024, 17:27:57 - DEBUG - Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:27:58 - INFO - Req was made | / 
+1.1.2024, 17:27:58 - DEBUG - Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:28:11 - INFO - server.js loaded... 
+1.1.2024, 17:28:11 - INFO - Server is running on port: 3030 
+1.1.2024, 17:28:19 - INFO - Req was made | / 
+1.1.2024, 17:28:19 - DEBUG - Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:28:50 - INFO - server.js loaded... 
+1.1.2024, 17:28:50 - INFO - Server is running on port: 3030 
+1.1.2024, 17:28:53 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:28:53 - INFO - Req was made | / 
+1.1.2024, 17:29:17 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:29:17 - INFO - Req was made | / 
+1.1.2024, 17:29:57 - INFO - Req was made | / 
+1.1.2024, 17:29:57 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:30:01 - INFO - Req was made | / 
+1.1.2024, 17:30:01 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:30:09 - INFO - Req was made | /:id 
+1.1.2024, 17:30:10 - INFO - Req was made | / 
+1.1.2024, 17:30:10 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:30:14 - INFO - Req was made | / 
+1.1.2024, 17:30:14 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"81"} 
+1.1.2024, 17:30:19 - INFO - Req was made | / 
+1.1.2024, 17:30:19 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"0"} 
+1.1.2024, 17:30:35 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"-1"} 
+1.1.2024, 17:30:35 - INFO - Req was made | / 
+1.1.2024, 17:30:37 - INFO - Req was made | / 
+1.1.2024, 17:30:37 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"0"} 
+1.1.2024, 17:30:38 - INFO - Req was made | / 
+1.1.2024, 17:30:38 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"1"} 
+1.1.2024, 17:30:39 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"0"} 
+1.1.2024, 17:30:39 - INFO - Req was made | / 
+1.1.2024, 17:31:29 - INFO - Server is running on port: 3030 
+1.1.2024, 17:31:29 - INFO - server.js loaded... 
+1.1.2024, 17:31:38 - INFO - Req was made | / 
+1.1.2024, 17:31:38 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:31:43 - INFO - Req was made | / 
+1.1.2024, 17:31:43 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"8"} 
+1.1.2024, 17:31:43 - INFO - Req was made | / 
+1.1.2024, 17:31:43 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"81"} 
+1.1.2024, 17:31:46 - INFO - Req was made | / 
+1.1.2024, 17:31:46 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"0"} 
+1.1.2024, 17:33:40 - INFO - server.js loaded... 
+1.1.2024, 17:33:40 - INFO - Server is running on port: 3030 
+1.1.2024, 17:33:55 - INFO - Req was made | / 
+1.1.2024, 17:33:55 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:33:58 - INFO - Req was made | / 
+1.1.2024, 17:33:58 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"8"} 
+1.1.2024, 17:33:59 - INFO - Req was made | / 
+1.1.2024, 17:33:59 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"81"} 
+1.1.2024, 17:34:02 - INFO - Req was made | / 
+1.1.2024, 17:34:02 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"0"} 
+1.1.2024, 17:34:23 - INFO - Req was made | / 
+1.1.2024, 17:34:23 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:34:31 - INFO - Req was made | / 
+1.1.2024, 17:34:31 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"123"} 
+1.1.2024, 17:34:32 - INFO - Req was made | / 
+1.1.2024, 17:34:32 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"0"} 
+1.1.2024, 17:34:49 - INFO - server.js loaded... 
+1.1.2024, 17:34:49 - INFO - Server is running on port: 3030 
+1.1.2024, 17:34:52 - INFO - Req was made | / 
+1.1.2024, 17:34:52 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:34:56 - INFO - Req was made | / 
+1.1.2024, 17:34:56 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"8"} 
+1.1.2024, 17:34:56 - INFO - Req was made | / 
+1.1.2024, 17:34:56 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"81"} 
+1.1.2024, 17:34:57 - INFO - Req was made | / 
+1.1.2024, 17:34:57 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":""} 
+1.1.2024, 17:35:09 - INFO - Req was made | / 
+1.1.2024, 17:35:09 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:35:13 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"8"} 
+1.1.2024, 17:35:13 - INFO - Req was made | / 
+1.1.2024, 17:35:13 - INFO - Req was made | / 
+1.1.2024, 17:35:13 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"81"} 
+1.1.2024, 17:35:18 - INFO - Req was made | / 
+1.1.2024, 17:35:18 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":""} 
+1.1.2024, 17:41:41 - INFO - Req was made | / 
+1.1.2024, 17:41:41 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:41:43 - INFO - Req was made | / 
+1.1.2024, 17:41:43 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:41:52 - INFO - Req was made | / 
+1.1.2024, 17:41:52 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:41:57 - INFO - Req was made | /:id 
+1.1.2024, 17:43:53 - INFO - server.js loaded... 
+1.1.2024, 17:43:53 - INFO - Server is running on port: 3030 
+1.1.2024, 17:43:59 - INFO - server.js loaded... 
+1.1.2024, 17:43:59 - INFO - Server is running on port: 3030 
+1.1.2024, 17:44:03 - INFO - Req was made | /:id 
+1.1.2024, 17:44:04 - INFO - Req was made | / 
+1.1.2024, 17:44:04 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:44:04 - INFO - Req was made | / 
+1.1.2024, 17:44:04 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:44:06 - INFO - Req was made | / 
+1.1.2024, 17:44:06 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"123"} 
+1.1.2024, 17:44:11 - INFO - Req was made | / 
+1.1.2024, 17:44:11 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:44:27 - INFO - Req was made | / 
+1.1.2024, 17:44:27 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 17:44:29 - INFO - Req was made | / 
+1.1.2024, 17:44:29 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"11"} 
+1.1.2024, 17:44:36 - INFO - Req was made | / 
+1.1.2024, 17:44:36 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 18:06:26 - INFO - Req was made | / 
+1.1.2024, 18:06:26 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 18:06:27 - INFO - Req was made | /:id 
+1.1.2024, 18:06:30 - INFO - Req was made | / 
+1.1.2024, 18:06:30 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 22:44:05 - INFO - Req was made | / 
+1.1.2024, 22:44:05 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 22:44:09 - INFO - Req was made | / 
+1.1.2024, 22:44:09 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 22:44:13 - INFO - Req was made | / 
+1.1.2024, 22:44:13 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":"11"} 
+1.1.2024, 22:44:18 - INFO - Req was made | / 
+1.1.2024, 22:44:18 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 22:44:21 - DEBUG - &&&&&&&&Getting Toys | {"name":"Dino","price":null} 
+1.1.2024, 22:44:21 - INFO - Req was made | / 
+1.1.2024, 22:44:23 - INFO - Req was made | / 
+1.1.2024, 22:44:23 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 22:44:26 - INFO - Req was made | / 
+1.1.2024, 22:44:26 - DEBUG - &&&&&&&&Getting Toys | {"name":"Ju","price":null} 
+1.1.2024, 22:44:27 - INFO - Req was made | / 
+1.1.2024, 22:44:27 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 22:44:29 - INFO - Req was made | / 
+1.1.2024, 22:44:29 - DEBUG - &&&&&&&&Getting Toys | {"name":"di","price":null} 
+1.1.2024, 22:44:30 - INFO - Req was made | / 
+1.1.2024, 22:44:30 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+1.1.2024, 22:44:34 - INFO - Req was made | / 
+1.1.2024, 22:44:34 - DEBUG - &&&&&&&&Getting Toys | {"name":"e","price":null} 
+1.1.2024, 22:44:43 - INFO - Req was made | / 
+1.1.2024, 22:44:43 - DEBUG - &&&&&&&&Getting Toys | {"name":"ex","price":null} 
+1.1.2024, 22:44:44 - INFO - Req was made | / 
+1.1.2024, 22:44:44 - DEBUG - &&&&&&&&Getting Toys | {"name":"ec","price":null} 
+2.1.2024, 21:30:34 - INFO - server.js loaded... 
+2.1.2024, 21:30:34 - INFO - Server is running on port: 3030 
+2.1.2024, 21:30:40 - INFO - Req was made | / 
+2.1.2024, 21:30:40 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:10:38 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:10:38 - INFO - Req was made | / 
+2.1.2024, 22:10:41 - INFO - Req was made | / 
+2.1.2024, 22:10:41 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:10:50 - INFO - Req was made | /:id 
+2.1.2024, 22:10:51 - INFO - Req was made | / 
+2.1.2024, 22:10:51 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:10:54 - INFO - Req was made | / 
+2.1.2024, 22:10:54 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:10:55 - INFO - Req was made | / 
+2.1.2024, 22:11:38 - INFO - Req was made | / 
+2.1.2024, 22:11:38 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:11:56 - INFO - Req was made | / 
+2.1.2024, 22:11:56 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:13:28 - INFO - Req was made | / 
+2.1.2024, 22:13:28 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:15:33 - INFO - Req was made | / 
+2.1.2024, 22:15:33 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:16:22 - INFO - Req was made | / 
+2.1.2024, 22:17:37 - INFO - Req was made | /:id 
+2.1.2024, 22:17:39 - INFO - Req was made | / 
+2.1.2024, 22:17:39 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:26:32 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:26:32 - INFO - Req was made | / 
+2.1.2024, 22:26:33 - INFO - Req was made | / 
+2.1.2024, 22:26:33 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:26:35 - INFO - Req was made | /:id 
+2.1.2024, 22:26:36 - INFO - Req was made | /:id 
+2.1.2024, 22:26:37 - INFO - Req was made | / 
+2.1.2024, 22:26:37 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:26:39 - INFO - Req was made | / 
+2.1.2024, 22:26:39 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:32:47 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:32:47 - INFO - Req was made | / 
+2.1.2024, 22:33:01 - INFO - Req was made | / 
+2.1.2024, 22:33:01 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:33:14 - INFO - Req was made | / 
+2.1.2024, 22:33:14 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:35:47 - INFO - Req was made | /:id 
+2.1.2024, 22:35:47 - INFO - Req was made | /:id 
+2.1.2024, 22:35:47 - INFO - Req was made | /:id 
+2.1.2024, 22:35:47 - INFO - Req was made | /:id 
+2.1.2024, 22:35:48 - INFO - Req was made | /:id 
+2.1.2024, 22:35:48 - INFO - Req was made | /:id 
+2.1.2024, 22:35:49 - INFO - Req was made | /:id 
+2.1.2024, 22:36:09 - INFO - Req was made | /:id 
+2.1.2024, 22:36:10 - INFO - Req was made | / 
+2.1.2024, 22:36:10 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:38:17 - INFO - server.js loaded... 
+2.1.2024, 22:38:17 - INFO - Server is running on port: 3030 
+2.1.2024, 22:38:24 - INFO - Req was made | / 
+2.1.2024, 22:38:24 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
+2.1.2024, 22:38:41 - INFO - server.js loaded... 
+2.1.2024, 22:38:41 - INFO - Server is running on port: 3030 
+2.1.2024, 22:38:49 - INFO - Req was made | / 
+2.1.2024, 22:38:49 - DEBUG - &&&&&&&&Getting Toys | {"name":"","price":null} 
